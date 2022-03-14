@@ -1,0 +1,16 @@
+.btn {
+  border: none;
+  background-color: transparent;
+  padding: 1.6rem 2.4rem;
+  border-radius: 0.8rem;
+  display: flex;
+  align-items: center;
+  color: var(--color-first);
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.btnPurple {
+  background-color: var(--color-first);
+  color: #fff;
+  margin-right: 1.6rem;
+}

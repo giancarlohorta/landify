@@ -1,0 +1,68 @@
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.headerContainerLogo {
+  display: flex;
+  align-items: center;
+  padding-top: 2.4rem;
+  padding-bottom: 2.4rem;
+}
+.headerNav {
+  width: 100%;
+  margin-left: 3.2rem;
+}
+.headerLink {
+  color: var(--color-suport);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.4rem 0.8rem;
+  margin-right: 0.8rem;
+}
+.headerLink:last-child {
+  margin-right: 0;
+}
+.headerNavApps {
+  display: flex;
+}
+.headerLinkApps {
+  display: block;
+  margin-right: 1.2rem;
+}
+.headerLinkApps:last-child {
+  margin-right: 0;
+}
+.header {
+  width: 100%;
+  background-image: url(../assets/background.svg);
+  background-position: top;
+  background-repeat: no-repeat;
+}
+.bannerContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-top: 7.2rem;
+}
+.iconWatch {
+  margin-right: 1.2rem;
+}
+.bannerContainerBtn {
+  display: flex;
+  align-items: center;
+  margin-top: 3.2rem;
+}
+.bannerTitle {
+  font-size: 6rem;
+  line-height: 1.2;
+  margin-top: 9.6rem;
+  margin-bottom: 1.6rem;
+}
+.bannerText {
+  font-size: 1.8rem;
+  line-height: 1.55;
+}
+.imgPhone {
+  max-width: 48.8rem;
+}

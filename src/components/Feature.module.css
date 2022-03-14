@@ -1,0 +1,24 @@
+.featureContainer {
+  max-width: 38.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6.4rem;
+}
+.featureImg {
+  width: 3.2rem;
+  height: 3.2rem;
+}
+.featureTitle {
+  font-size: 3rem;
+  line-height: 4rem;
+  margin-top: 2.4rem;
+}
+.featureText {
+  text-align: center;
+  max-width: 35.2rem;
+  width: 100%;
+  margin: 0.8rem auto;
+}
