@@ -23,7 +23,8 @@ img {
   width: 100%;
 }
 .container {
-  width: 121.6rem;
+  max-width: 121.6rem;
+  width: 100%;
   margin: 0 auto;
   padding: 0 3.2rem;
 }
